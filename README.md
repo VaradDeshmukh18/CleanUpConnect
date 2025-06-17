@@ -1,5 +1,8 @@
 # CleanUpConnect
 
+CleanUp Connect is a Kotlin-based Android app that connects volunteers with environmental cleanup drives. Volunteers can discover, join, and track drives, while admins can create and manage them.
+
+
 ## 📸 Screenshots
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7fbea7ee-ea64-4deb-ac87-e0251fd6990f" alt="Screenshot 1" width="300"/>
